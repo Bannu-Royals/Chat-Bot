@@ -1,0 +1,127 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Mulish', sans-serif;
+}
+.first-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.first-nav input{
+    width: 300px;
+    height: 27px;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid rgb(75, 74, 74);
+    margin-top: 16px;
+}
+.first-nav p{
+    margin-top: 18px;
+    font-size: 17px;
+}
+.second-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 11px;
+    background-color: rgb(218, 213, 213);
+    font-weight: 600;
+}
+.second-nav p:hover{
+    border-bottom: 2px solid rgb(13, 13, 46);
+    color: rgb(13, 13, 46);
+    cursor: pointer;
+}
+.second-nav img{
+    width: 5%;
+    border-radius: 4px;
+}
+.lens{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(242, 236, 236);
+    padding: 11px;
+}
+.lens img{
+    width: 14%;
+    border: 2px solid white;
+    border-radius: 5px;
+
+}
+.main img{
+    width: 100%;
+}
+.main h2{
+    text-align: center;
+    padding: 32px;
+}
+
+.cart{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 11px;
+}
+.cart .card{
+    text-align: center;
+}
+
+.card button{
+    width: 100px;
+    height: 33px;
+    color: white;
+    background-color: rgb(52, 180, 180);
+    border-radius: 2px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+.card p{
+    font-size: 18px;
+}
+.cart .card img{
+    width: 70%;
+}
+.banner h2{
+    text-align: center;
+    padding: 32px;
+}
+.banner .img img{
+    width: 100%;
+    height: 100%;
+}
+.goggle img{
+    margin-left: 100px;
+}
+.main-img img{
+    width: 100%;
+}
+.main-img h2{
+    text-align: center;
+    padding: 32px;
+}
+.about-matter{
+    background-color: rgb(26, 26, 84);
+    color: white;
+    text-align: center;
+    
+}
+.about-matter h2{
+    font-size: 60px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(26, 26, 84);
+    color: white;
+    padding: 43px;
+}
+.footer .list ul{
+    list-style: none;
+}
+.footer .list{
+    display: flex;
+}
