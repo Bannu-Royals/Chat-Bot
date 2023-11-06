@@ -67,7 +67,6 @@
 .cart .card{
     text-align: center;
 }
-
 .card button{
     width: 100px;
     height: 33px;
@@ -105,8 +104,7 @@
 .about-matter{
     background-color: rgb(26, 26, 84);
     color: white;
-    text-align: center;
-    
+    text-align: center;   
 }
 .about-matter h2{
     font-size: 60px;
